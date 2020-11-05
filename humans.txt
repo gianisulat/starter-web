@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Gian Isulat gian@yahoo.com @gianisulat
 
 # THANKS
 
