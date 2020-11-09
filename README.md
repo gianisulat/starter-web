@@ -18,5 +18,5 @@ Please form this repository and then issue Pull request for review.
 
 ### Copyright
  
-Copyright 2014 Git Training
+Copyright 2014 Git Training. All rights Reserve
 
